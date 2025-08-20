@@ -14,17 +14,14 @@ Features multiple levels and a level counter for progressive gameplay.
 ### How to Play
 1. Clone this repository:
 ```
-git clone https://github.com/your-username/breakout.git
+git clone https://github.com/King-Caleb/Breakout.git
 cd breakout
 ```
 2. Make sure you have **SDL2** and **SDL_ttf** installed:
 - You can download SDL_ttf from their [official repo](https://github.com/libsdl-org/SDL_ttf)
 - Or check the [Releases](../../releases) section for a playable build.
 3. Compile and run the game:
-```
-g++ -o breakout main.cpp -lSDL2 -lSDL2_ttf
-./breakout
-```
+I forgot the command. it was g++ and some LC and IC. Sorry for the inconveinience. :-(
 
 ---
 
